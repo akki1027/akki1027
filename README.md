@@ -1,4 +1,7 @@
-### Hi there 👋
+### こんにちは 👋
+現在エンジニアを目指しています！  
+ぜひポートフォリオを見ていってください😄
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akki1027&theme=tokyonight&show_icons=true)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=akki1027&layout=compact&theme=tokyonight)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=akki1027&repo=FitReviews&theme=great-gatsby)
