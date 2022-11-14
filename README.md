@@ -1,7 +1,6 @@
 ### Hello 👋
 
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=akki1027&layout=compact&theme=algolia)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=akki1027&theme=algolia&show_icons=true)
 
 
 <!--
